@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Opificio';
+    src: url('Opificio-Bold.eot');
+    src: url('Opificio-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Opificio-Bold.woff2') format('woff2'),
+        url('Opificio-Bold.woff') format('woff'),
+        url('Opificio-Bold.ttf') format('truetype'),
+        url('Opificio-Bold.svg#Opificio-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Opificio';
+    src: url('Opificio-Light.eot');
+    src: url('Opificio-Light.eot?#iefix') format('embedded-opentype'),
+        url('Opificio-Light.woff2') format('woff2'),
+        url('Opificio-Light.woff') format('woff'),
+        url('Opificio-Light.ttf') format('truetype'),
+        url('Opificio-Light.svg#Opificio-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Opificio';
+    src: url('Opificio-Regular.eot');
+    src: url('Opificio-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Opificio-Regular.woff2') format('woff2'),
+        url('Opificio-Regular.woff') format('woff'),
+        url('Opificio-Regular.ttf') format('truetype'),
+        url('Opificio-Regular.svg#Opificio-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
